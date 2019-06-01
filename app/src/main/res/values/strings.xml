@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">13 Subat 2016 EHLIYET SINAVI</string>
+    <string name="question">Soru</string>
+    <string name="play_again">Tekrar çöz</string>
+    <string name="play_again_succes">Tekrar basla</string>
+    <string name="time">15</string>
+    <string name="correct">Dogru</string>
+    <string name="wrongans">Yanlis cevap</string>
+    <string name="timeup">Zaman doldu!</string>
+    <string name="play_game">Soru çöz</string>
+    <string name="quit">Çık</string>
+    <string name="next">Sonraki</string>
+    <string name="cancel">✖</string>
+</resources>
